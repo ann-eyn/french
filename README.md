@@ -42,5 +42,4 @@ $ git clone <https://github.com/ann-eyn/french.git>
 # Acesse a pasta do projeto no terminal/cmd
 $ cd french
 
-# Abra o arquivo index.html no navegador
-# Site voltado para aprendizado da pronúncia francesa
+# Abra o arquivo index.html no seu navegador
