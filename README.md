@@ -43,3 +43,4 @@ $ git clone <https://github.com/ann-eyn/french.git>
 $ cd french
 
 # Abra o arquivo index.html no navegador
+# Site voltado para aprendizado da pronúncia francesa
