@@ -37,7 +37,7 @@ Basta clonar o repositório e abrir o arquivo `index.html` no seu navegador.
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/ann-eyn/french.git>
+$ git clone https://github.com/ann-eyn/french.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd french
